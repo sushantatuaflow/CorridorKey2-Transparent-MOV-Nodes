@@ -1,0 +1,18 @@
+{
+  "bundle_name": "CorridorKey2_Transparent_MOV_Nodes",
+  "bundle_version": "1.1.0.1",
+  "registered_node_ids": [
+    "CorridorKey2Advanced",
+    "CorridorKey2ChromaHint",
+    "CorridorKey2Despill",
+    "CorridorKey2MatteRefine",
+    "CorridorKey2ModelLoader",
+    "SaveTransparentVideo"
+  ],
+  "workflow_target": "CorridorKey2_Transparent_MOV.json",
+  "model_weights_included": false,
+  "sources": [
+    "https://github.com/marawan206/ComfyUI-CorridorKey2.0",
+    "https://github.com/TrentHunter82/TrentNodes"
+  ]
+}
